@@ -34,15 +34,15 @@ header {
 }
 
 #column-1 {
-  background: darkblue;
+  background: #00292d;
 }
 
 #column-2 {
-  background: green;
+  background: #00474f;
 }
 
 #column-3 {
-  background: grey;
+  background: #006671;
 }
 
 
@@ -56,27 +56,26 @@ footer {
 
 
 /*---------- TABLET ----------*/
-/* Change the background colors below */
 
 @media (min-width: 768px) {
   header {
-    background-color: ;
+    background-color: #c1b0e7;
   }
 
   #column-1 {
-    background-color: chocolate;
+    background-color: #362067;
   }
 
   #column-2 {
-    background-color: darkseagreen;
+    background-color: #442881;
   }
 
   #column-3 {
-    background-color: darkturquoise;
+    background-color: #51309b;
   }
 
   footer {
-    background-color: ;
+    background-color: #1b1033;
   }
 
 }
@@ -85,23 +84,23 @@ footer {
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
   header {
-    background-color: ;
+    background-color: #b5f096;
   }
 
   #column-1 {
-    background-color: blue;
+    background-color: #20490b;
   }
 
   #column-2 {
-    background-color: purple;
+    background-color: #2e670f;
   }
 
   #column-3 {
-    background-color: red;
+    background-color: #3b8414;
   }
 
   footer {
-    background-color: ;
+    background-color: #0d1d04;
   }
 
 }
